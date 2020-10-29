@@ -1,5 +1,10 @@
 # RCLayout(圆角布局)
 
+升级到了android 10.
+
+感谢原作者的分享。
+
+
 Android 通用圆角布局，快速实现圆角需求。
 
 之前做项目的时候有圆角相关需求，在网上找了很多方案都不够满意，于是自己做了一个，目前已经使用了一段时间，更新了多个版本，我遇到的问题都进行了修复，并且添加了很多方便的可配置属性，以满足不同需求。
@@ -149,6 +154,10 @@ implementation 'com.gcssloop.widget:rclayout:1.8.1'
 感谢 [![img](https://avatars1.githubusercontent.com/u/17588779?s=50&v=4)](https://github.com/dengyuhan) 贡献的代码。
 
 ## 更新日志
+
+#### v1.8.2
+
+1. 升级到了android 10。
 
 #### v1.8.1
 
