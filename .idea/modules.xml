@@ -4,7 +4,10 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/RCLayout.iml" filepath="$PROJECT_DIR$/RCLayout.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/carlcommit-rclayout.iml" filepath="$PROJECT_DIR$/.idea/modules/carlcommit-rclayout.iml" group="rclayout" />
       <module fileurl="file://$PROJECT_DIR$/rclayout/rclayout.iml" filepath="$PROJECT_DIR$/rclayout/rclayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/rclayout-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/rclayout-app.iml" group="rclayout/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/RCLayout/rclayout-rclayout.iml" filepath="$PROJECT_DIR$/.idea/modules/RCLayout/rclayout-rclayout.iml" group="rclayout/rclayout" />
     </modules>
   </component>
 </project>
